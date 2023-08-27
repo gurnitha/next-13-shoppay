@@ -32,6 +32,9 @@ Github:https://github.com/gurnitha/next-13-shoppay
         or
         $ yadn add sass
 
+#### 1.4 Reset css style
 
-
+        modified:   pages/_app.js
+        deleted:    styles/globals.css
+        new file:   styles/globals.scss
 
