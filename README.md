@@ -19,3 +19,19 @@ Github:https://github.com/gurnitha/next-13-shoppay
         modified:   styles/Home.module.css
         modified:   styles/globals.css
 
+#### 1.3 Install scss
+
+        modified:   README.md
+        modified:   package-lock.json
+        modified:   package.json
+        modified:   pages/index.js
+        deleted:    styles/Home.module.css
+        new file:   styles/Home.module.scss
+
+        $ npm install sass
+        or
+        $ yadn add sass
+
+
+
+
