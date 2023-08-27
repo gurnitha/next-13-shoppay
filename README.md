@@ -12,3 +12,10 @@ Github:https://github.com/gurnitha/next-13-shoppay
 
         http://localhost:3000
         http://localhost:3000/test
+
+#### 1.2 Styling using standard css and modular css
+
+        modified:   pages/index.js
+        modified:   styles/Home.module.css
+        modified:   styles/globals.css
+
